@@ -1,2 +1,2 @@
-# dmacc-webdev
+# Meriel
 Assignments and projects
